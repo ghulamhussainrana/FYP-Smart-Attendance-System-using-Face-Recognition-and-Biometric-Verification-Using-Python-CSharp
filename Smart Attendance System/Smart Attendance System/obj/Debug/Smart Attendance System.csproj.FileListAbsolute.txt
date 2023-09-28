@@ -1,0 +1,66 @@
+c:\users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\Smart Attendance System.exe.config
+c:\users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\Smart Attendance System.exe
+c:\users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\Smart Attendance System.pdb
+c:\users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart Attendance System.csprojResolveAssemblyReference.cache
+c:\users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart_Attendance_System.Properties.Resources.resources
+c:\users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart Attendance System.csproj.GenerateResource.Cache
+c:\users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart Attendance System.exe
+c:\users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart Attendance System.pdb
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart_Attendance_System.LoginForm.resources
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\MySql.Data.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\ZstdNet.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\Google.Protobuf.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\System.Buffers.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\MySql.Data.xml
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart Attendance System.csproj.Smart Attendance System.exe.config
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart_Attendance_System.AttendanceReportUC.resources
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart_Attendance_System.AboutUsUC.resources
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart_Attendance_System.TodayAttendance.resources
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\IronPython.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\IronPython.Modules.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\IronPython.SQLite.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\IronPython.Wpf.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\Microsoft.Scripting.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\IronPython.xml
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\IronPython.Modules.xml
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\IronPython.SQLite.xml
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\IronPython.Wpf.xml
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\Microsoft.Scripting.xml
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart_Attendance_System.FpEnrollmentForm.resources
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\UareUSampleCSharp.ReaderSelection.resources
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\UareUSampleCSharp.Form_Main.resources
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\UareUSampleCSharp.Verification.resources
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\DPCtlUruNet.dll
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\DPCtlXUru.dll
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\DPUruNet.dll
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\DPXUru.dll
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\DPCtlUruNet.xml
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\DPCtlXUru.xml
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\DPUruNet.xml
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\DPXUru.xml
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\UareUSampleCSharp.Capabilities.resources
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\UareUSampleCSharp.Capture.resources
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\UareUSampleCSharp.Enrollment.resources
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\UareUSampleCSharp.EnrollmentControl.resources
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\UareUSampleCSharp.Identification.resources
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\UareUSampleCSharp.IdentificationControl.resources
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\UareUSampleCSharp.Stream.resources
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart_Attendance_System.FpVerificationForm.resources
+C:\Users\ghula\Documents\Visual Studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart_Attendance_System.UpdateAttendanceForm.resources
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart_Attendance_System.DashboardFaculty.resources
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart_Attendance_System.AddTeacherUC.resources
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart_Attendance_System.DashboardAdmin.resources
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart_Attendance_System.TeacherReportUC.resources
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart_Attendance_System.DashboardFacultyUC.resources
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\obj\Debug\Smart_Attendance_System.StudentAddUC.resources
+C:\Users\ghula\documents\visual studio 2015\Projects\Smart Attendance System\Smart Attendance System\bin\Debug\Linq.Csv.dll
